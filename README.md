@@ -1,3 +1,3 @@
 # Hi👋I'm Khushbu
-**👩‍💻I'm an aspiring Data Analyst passionate about uncovering insights and driving data-driven decisions.**
+**👩‍💻I’m a passionate Data Analyst skilled in SQL, Power BI, Python, and Excel. I specialize in turning data into actionable insights and building impactful dashboards. Explore my projects to see how I bring data to life!**
 
